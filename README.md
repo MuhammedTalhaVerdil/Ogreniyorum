@@ -1,2 +1,2 @@
-# Öğreniyorum
-Emülatör ile test edilirse uygulama içi kaymalar meydana gelebilir.
+# Öğreniyorum Projesi
+Muhammed Talha Verdil
